@@ -1,1 +1,2 @@
 Hello! Welcome to the session on git!
+You will learn about git and github here.
